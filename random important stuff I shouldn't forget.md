@@ -13,3 +13,7 @@ switch() {
     break;  
 }  
 not even gonna try to make markdown work here
+
+## RLLY IMPORTANT FUNCTION STUFF
+
+you can declare a function above main and define it later and it'll still work
